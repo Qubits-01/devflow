@@ -19,6 +19,8 @@
         "darkmode",
         "devflow",
         "Grotesk",
-        "tailwindcss"
+        "nextjs",
+        "tailwindcss",
+        "trpc"
     ]
 }
